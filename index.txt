@@ -3,7 +3,7 @@
 <body>
 
 WElcome to new project
-WElcome to new project
+GIT CHANGES
 
 </body>
 
